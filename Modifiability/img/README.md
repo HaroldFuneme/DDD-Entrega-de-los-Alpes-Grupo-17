@@ -16,3 +16,4 @@
 * Modularidad: El sistema se divide en diferentes microservicios que se encargan de realizar tareas específicas, como la verificación de inventario o la generación de órdenes de despacho. Esto permite que cada microservicio pueda ser modificado y actualizado de manera independiente sin afectar al resto del sistema.
 * Abstracción de la capa de datos por medio de interfaces: El sistema separa la lógica de negocio de la lógica de acceso a los datos, utilizando interfaces para interactuar con las bases de datos. Esto permite que las bases de datos puedan ser modificadas sin afectar la lógica de negocio del sistema.
 * Comunicación basada en eventos: el sistema logra ser más flexible y desacoplado, ya que los microservicios no necesitan conocer la ubicación o el estado actual de los demás microservicios. Si un microservicio cambia su implementación o se agrega uno nuevo, los demás microservicios no necesitan cambiar para adaptarse a estos cambios.
+
