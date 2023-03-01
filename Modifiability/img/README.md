@@ -17,3 +17,7 @@
 * Abstracción de la capa de datos por medio de interfaces: El sistema separa la lógica de negocio de la lógica de acceso a los datos, utilizando interfaces para interactuar con las bases de datos. Esto permite que las bases de datos puedan ser modificadas sin afectar la lógica de negocio del sistema.
 * Comunicación basada en eventos: el sistema logra ser más flexible y desacoplado, ya que los microservicios no necesitan conocer la ubicación o el estado actual de los demás microservicios. Si un microservicio cambia su implementación o se agrega uno nuevo, los demás microservicios no necesitan cambiar para adaptarse a estos cambios.
 
+## Diagrama del Experimento:
+
+![Experimento](https://github.com/HaroldFuneme/DDD-Entrega-de-los-Alpes-Grupo-17/blob/Modifiability/Modifiability/img/Lab-Modifiability.png)
+
