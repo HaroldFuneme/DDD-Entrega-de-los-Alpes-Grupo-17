@@ -19,5 +19,5 @@
 
 ## Diagrama del Experimento:
 
-![Experimento](https://github.com/HaroldFuneme/DDD-Entrega-de-los-Alpes-Grupo-17/blob/Modifiability/Modifiability/img/Lab-Modifiability.png)
+![Experimento](https://github.com/HaroldFuneme/DDD-Entrega-de-los-Alpes-Grupo-17/blob/Modifiability/Modifiability/img/Lab-Modifiability-1.png)
 
