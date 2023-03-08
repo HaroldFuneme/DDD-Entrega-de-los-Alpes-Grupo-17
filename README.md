@@ -13,8 +13,16 @@ pruebas de concepto (POC) de la arquitectura de solución que el grupo 17  propo
 
 ## microservicios:
 * Microservicio de recepción de orden: Este microservicio se encargaría de recibir la orden del usuario y notificarla cuando identifique que la orden es consistente
+
+    Link: https://github.com/HaroldFuneme/DDD-Entrega-de-los-Alpes-Grupo-17-RecepcionOrden
+
 * Microservicio de verificación de inventario: Este microservicio se encargaría de verificar el inventario de cada producto en la orden de compra, buscando en las bodegas y centros de distribución.
+
+    Link: https://github.com/HaroldFuneme/DDD-Entrega-de-los-Alpes-Grupo-17-VerificacionInventario
+
 * Microservicio de generación de órdenes de despacho: Este microservicio se encargaría de generar una orden de despacho con la información de los productos y su ubicación, ya sea en bodegas o centros de distribución.
+
+    Link: https://github.com/HaroldFuneme/DDD-Entrega-de-los-Alpes-Grupo-17-GeneracionOrdenDespacho
 
 ## Las tácticas usadas para mejorar la modificabilidad del sistema son:
 * Modularidad: El sistema se divide en diferentes microservicios que se encargan de realizar tareas específicas, como la verificación de inventario o la generación de órdenes de despacho. Esto permite que cada microservicio pueda ser modificado y actualizado de manera independiente sin afectar al resto del sistema.
