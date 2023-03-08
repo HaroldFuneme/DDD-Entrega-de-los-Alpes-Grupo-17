@@ -3,9 +3,9 @@ pruebas de concepto (POC) de la arquitectura de solución que el grupo 17  propo
 
 ### Integrantes
 
-Juan Pablo Feliciano Báez
-Harold Hernando Funeme
-Óscar Fernando Álvarez
+- Juan Pablo Feliciano Báez
+- Harold Hernando Funeme
+- Óscar Fernando Álvarez
  
 # Experimento con Modificabilidad
 ## Flujo de trabajo base:
